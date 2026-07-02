@@ -63,9 +63,9 @@ Apa tren pertumbuhannya?
 #### SQL QUERY
 - [Transactions Analytics Query](sql/01.transaction_analytics.SQL)
 #### Screenshot
-- ![Transaction Analytics - Daily Transaction Trend](images/01.Transaction_Analytics_-_Daily_Transaction_Trend.png)
-- ![Transaction Analytics - Monthly Transaction Trend](images/01.Transaction_Analytics_-_Monthly_Transaction_Trend.png)
-- ![Transaction Analytics - Weekly Transaction Trend](images/01.Transaction_Analytics_-_Weekly_Transaction_Trend.png)
+- ![Transaction Analytics - Daily Transaction Trend](image/01.Transaction_Analytics_-_Daily_Transaction_Trend.png)
+- ![Transaction Analytics - Monthly Transaction Trend](image/01.Transaction_Analytics_-_Monthly_Transaction_Trend.png)
+- ![Transaction Analytics - Weekly Transaction Trend](image/01.Transaction_Analytics_-_Weekly_Transaction_Trend.png)
 
 ---
 
@@ -77,8 +77,8 @@ Bagaimana distribusi per segmen (Retail/Priority/VIP)?
 #### SQL QUERY
 - [Customer 360 Query](sql/02.customer_360.SQL)
 #### Screenshot
-- ![Customer 360 - Most Active Customers](images/02.Customer_360_-_Most_Active_Customers.png)
-- ![Customer 360 - Customer Distribution by Segment](images/02.Customer_360_-_Customer_Distribution_by_Segment.png)
+- ![Customer 360 - Most Active Customers](image/02.Customer_360_-_Most_Active_Customers.png)
+- ![Customer 360 - Customer Distribution by Segment](image/02.Customer_360_-_Customer_Distribution_by_Segment.png)
 
 ---
 
@@ -89,7 +89,7 @@ Cabang mana yang memiliki performa tertinggi berdasarkan jumlah transaksi dan to
 #### SQL QUERY
 - [Branch Performance Query](sql/03.branch_performance.SQL)
 #### Screenshot
-- ![Branch Performance](images/03.Branch_Performance.png)
+- ![Branch Performance](image/03.Branch_Performance.png)
 
 ---
 
@@ -101,8 +101,8 @@ Bagaimana tren migrasi ke digital?
 #### SQL QUERY
 - [Channel Analysis Query](sql/04.channel_analysis.SQL)
 #### Screenshot
-- ![Channel Analysis - Channel Usage](images/04.Channel_Analysis_-_Channel_Usage.png)
-- ![Channel Analysis - Channel Usage Trend](images/04.Channel_Analysis_-_Channel_Usage_Trend.png)
+- ![Channel Analysis - Channel Usage](image/04.Channel_Analysis_-_Channel_Usage.png)
+- ![Channel Analysis - Channel Usage Trend](image/04.Channel_Analysis_-_Channel_Usage_Trend.png)
 
 
 ---
@@ -114,7 +114,7 @@ Produk rekening mana (Tabungan/Giro/Deposito) yang menghasilkan volume transaksi
 #### SQL QUERY
 - [Product Performance Query](sql/05.product_performance.SQL)
 #### Screenshot
-- ![Product Performance](images/05.Product_Performance.png)
+- ![Product Performance](image/05.Product_Performance.png)
 
 ---
 
@@ -125,7 +125,7 @@ Adakah transaksi anomali (nilai sangat besar, frekuensi tidak wajar, atau status
 #### SQL QUERY
 - [Risk & Fraud Detection Query](sql/06.risk&fraud_detection.SQL)
 #### Screenshot
-- ![Risk & Fraud Detection - Fraud Detection](images/06.Risk&Fraud_Detection_-_Fraud_Detection.png)
-- ![Risk & Fraud Detection - Failed Transactions](images/06.Risk&Fraud_Detection_-_Failed_Transactions.png)
+- ![Risk & Fraud Detection - Fraud Detection](image/06.Risk&Fraud_Detection_-_Fraud_Detection.png)
+- ![Risk & Fraud Detection - Failed Transactions](image/06.Risk&Fraud_Detection_-_Failed_Transactions.png)
 
 ---
